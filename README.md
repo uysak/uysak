@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uysak
-- 👀 I’m interested in ... Game Development and .Net Core
+- 👀 I’m interested in ... Game Development
 - 🌱 I’m currently learning ... Unity, C#
 - 📫 How to reach me ;
   berkayuysak@gmail.com
