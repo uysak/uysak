@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uysak
-- 👀 I’m interested in ... Game Development
-- 🌱 I’m currently learning ... Unity, C#
+- 👀 I’m interested in ... Mobile App Development
+- 🌱 I’m currently learning ... IOS Swift
 - 📫 How to reach me ;
   berkayuysak@gmail.com
   +905541111979
