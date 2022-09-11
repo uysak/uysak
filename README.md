@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uysak
-- 👀 I’m interested in ... Mobile App Development
-- 🌱 I’m currently learning ... IOS Swift
+- 👀 I’m interested in ... Backend Development
+- 🌱 I’m currently learning ... .Net
 - 📫 How to reach me ;
   berkayuysak@gmail.com
   +905541111979
